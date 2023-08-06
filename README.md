@@ -1,2 +1,3 @@
 # contact-us-page
-This a responsive contact us page for Tiyota Systems
+This is a responsive contact us page for Tiyota Systems.
+It basically contains html and css codes. flexbox is used for the responsiveness including media queries.
